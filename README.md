@@ -1,5 +1,6 @@
 # AI Strategy Analysis Tool
 
+URL - https://ai-planet-assignment-ayush.streamlit.app/
 ## Overview
 The AI Strategy Analysis Tool is a Streamlit-based application that helps businesses identify AI/ML opportunities and generate comprehensive strategy reports. The tool analyzes companies, determines their industry, conducts market research, generates use cases, and creates detailed proposals.
 
